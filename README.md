@@ -10,3 +10,5 @@ Classification problem: Logistic regression with PCA has highest accuracy
 Regression problem: XGBoost has lowest MSE
 
 Presentation: https://prezi.com/p/edit/lne4-b_t-a9f/
+
+To run the Streamlit app for demo, install all of the dependencies in "requirements.txt" and run "Streamlit run app.py" in your terminal.
