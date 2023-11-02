@@ -7,6 +7,7 @@ The challenge was to predict insurance cost and fitness for work score for patie
 Our solution included a Jupyter notebook and Streamlit code for a mock up of the web interface. 
 
 Classification problem: Logistic regression with PCA has highest accuracy
+
 Regression problem: XGBoost has lowest MSE
 
 Presentation: https://prezi.com/p/edit/lne4-b_t-a9f/
